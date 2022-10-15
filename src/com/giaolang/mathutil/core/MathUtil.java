@@ -35,7 +35,7 @@ public class MathUtil {
         
 
         //sống sót đến đây, sure, n chạy từ 2..20
-        long product = 10; //khởi đầu giai thừa là 1
+        long product = 1; //khởi đầu giai thừa là 1
         //biến tích luỹ/gửi góp/nhân dồn/con heo đất
         //acc - accumulation
         for (int i = 2; i <= n; i++) 
